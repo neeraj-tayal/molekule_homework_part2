@@ -1,4 +1,4 @@
-# molekule_homework_part2
+# homework_part2
 
 To build and run the code with logging enabled
 
